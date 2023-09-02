@@ -1,27 +1,43 @@
-# 💫 About Me:
-🔷 Currently studying front-end<br>⚡Curiosity In my spare time, I play GOD
+<div align="center">
+    <h1>💫 About Me:</h1>
+  <div align="left">
+  <p>🔷 Currently studying front-end</p>
+  <p>⚡Curiosity In my spare time, I play GOD</p>
+    
+  </div>
+</div>
+
+</br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/renatasoouza/) 
+<div align="center">
+  <img width="51%" height="200px" src="https://github-readme-stats.vercel.app/api?username=RenataSoouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true">
+  <img width="40%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenataSoouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact">
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RenataSoouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=RenataSoouza&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RenataSoouza&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=RenataSoouza&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+<div align="center">
+    <h1>💻 Tech Stack:</h1>
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+### Frontend Development
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=RenataSoouza&icon=0&color=0)](https://visitcount.itsvg.in)
+### Software
+<p align="left">
+ <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="canva" width="40" height="40"/>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h1>🌐 Socials:</h1>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/renatasoouza/">
+     <img width="40%" height="50px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg">
+  </a>
+</div>
+
